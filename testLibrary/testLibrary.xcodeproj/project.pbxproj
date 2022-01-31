@@ -51,9 +51,17 @@
 			children = (
 				28BEA13827A7F9D4004B6542 /* testLibrary.h */,
 				28BEA13927A7F9D4004B6542 /* testLibrary.docc */,
-				28BEA14127A7FC5A004B6542 /* test.swift */,
+				28BEA14327A81C19004B6542 /* Classes */,
 			);
 			path = testLibrary;
+			sourceTree = "<group>";
+		};
+		28BEA14327A81C19004B6542 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				28BEA14127A7FC5A004B6542 /* test.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
